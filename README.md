@@ -10,4 +10,4 @@
 ### Data
 - This folder is currently ignored by GitHub due to data privacy concerns.
 ### Output
-- Data output files. May not contain all output as some files may be too large and stored elsewhere.
+- Data output files. Does not contain most output as some files are too large and stored elsewhere.
